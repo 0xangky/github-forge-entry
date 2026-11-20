@@ -1,0 +1,8 @@
+{
+  "name": "github-forge-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A standalone GitHub-compatible git forge for make.fun github-core-clone-01",
+  "license": "MIT"
+}
